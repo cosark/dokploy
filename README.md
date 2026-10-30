@@ -35,6 +35,10 @@ Dokploy includes multiple features to make your life easier.
 
 ## 🚀 Getting Started
 
+### One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Dokploy%20VPS/)
+
 To get started, run the following command on a VPS:
 
 Want to skip the installation process? [Try the Dokploy Cloud](https://app.dokploy.com).
